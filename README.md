@@ -7,10 +7,10 @@ Welcome to the **Sales Dashboard** project! This repository provides actionable 
 ## 🚀 Overview
 
 - **Dashboard Preview:**  
-  ![Sales Dashboard](images/Sales%20Dashboard.png)
+  ![Sales Dashboard](./Sales%20Dashboard.png)
 
 - **Dataset:**  
-  [Download Sales.csv](data/Sales.csv)
+  [Download Sales.csv](./Sales.csv)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to the **Sales Dashboard** project! This repository provides actionable 
 
 ## 📁 Dataset Structure
 
-- **File:** [Sales.csv](data/Sales.csv)
+- **File:** [Sales.csv](./Sales.csv)
 - **Columns:**
   - Order Date
   - Year
@@ -51,5 +51,3 @@ Welcome to the **Sales Dashboard** project! This repository provides actionable 
 - The dashboard highlights top customers and their impact on profitability.
 
 ---
-
-
