@@ -1,35 +1,50 @@
 📊 Sales Dashboard: Consumer & Performance Insights (Excel)
-Welcome to the Sales Dashboard project! This repository provides actionable insights into sales performance, product categories, customer contributions, and profit trends, all visualized through a clear and interactive Excel dashboard.
+Welcome to the Sales Dashboard project! This repository provides actionable insights into sales performance, product categories, customer contributions, and profit trends, all visualized through an interactive Excel dashboard.
 
-🚀 Overview
-This project includes:
+📁 Project Structure
+Sales Dashboard.png
+Dashboard preview image.
 
-A dashboard image for a quick, visual summary of key sales insights.
+Sales.csv
+Raw sales dataset.
 
-The raw dataset (Sales.csv) for your own analysis or dashboard extension.
+README.md
+Project documentation.
+
+🚀 Project Overview
+This project demonstrates:
+
+Data Loading:
+Raw sales data in Sales.csv.
+
+Analysis & Visualization:
+Insights visualized in the Excel dashboard.
+
+Insights:
+Key findings on sales by category, profit trends, customer contributions, and more.
 
 🖼️ Dashboard Preview
-![Sales Dashboard 🔍 Key Features
+![Sales Dashboard](./Sales%20Dashboard.png Features
 
-Sales by Category
+Sales by Category:
 Phones and Chairs are top contributors, while Fasteners and Labels underperform.
 
-Profit Gained Over Time
-Technology shows significant profit growth, tracked alongside Furniture and Office Supplies.
+Profit Gained Over Time:
+Technology shows significant profit growth.
 
-Sales by State
+Sales by State:
 US map highlights sales volume by state.
 
-Customer Count
+Customer Count:
 Year-over-year customer growth visualization.
 
-Top 5 Customers
+Top 5 Customers:
 Pie chart showing the top customers by profit contribution.
 
-Monthly Sales
+Monthly Sales:
 Trend line for monthly sales volume.
 
-📁 Dataset
+🗂️ Dataset
 File: Sales.csv
 
 Columns:
