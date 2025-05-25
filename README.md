@@ -9,24 +9,24 @@ A dashboard image for a quick, visual summary of key sales insights.
 The raw dataset (Sales.csv) for your own analysis or dashboard extension.
 
 🖼️ Dashboard Preview
-![Sales Dashboard Key Features
+![Sales Dashboard 🔍 Key Features
 
-Sales by Category:
+Sales by Category
 Phones and Chairs are top contributors, while Fasteners and Labels underperform.
 
-Profit Gained Over Time:
+Profit Gained Over Time
 Technology shows significant profit growth, tracked alongside Furniture and Office Supplies.
 
-Sales by State:
+Sales by State
 US map highlights sales volume by state.
 
-Customer Count:
+Customer Count
 Year-over-year customer growth visualization.
 
-Top 5 Customers:
+Top 5 Customers
 Pie chart showing the top customers by profit contribution.
 
-Monthly Sales:
+Monthly Sales
 Trend line for monthly sales volume.
 
 📁 Dataset
