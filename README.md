@@ -52,5 +52,4 @@ Welcome to the **Sales Dashboard** project! This repository provides actionable 
 
 ---
 
-## 📂 Repository Structure
 
